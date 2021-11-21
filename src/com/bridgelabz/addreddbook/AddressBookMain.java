@@ -22,7 +22,5 @@ public class AddressBookMain {
 			i++;
 		}
 		System.out.println(map);
-
 	}
-
 }
