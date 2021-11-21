@@ -21,7 +21,8 @@ public class AddressBookMain {
 			map.put(bookName, addressBook);
 			i++;
 		}
-		
+		System.out.println(map);
+
 	}
 
 }
